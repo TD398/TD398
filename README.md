@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TD398
+- 👋 Hi, I’m Tony Di Blasio
 - 👀 I’m interested in learning how to code, photography, board games, coffee, and stories!
 - 🌱 I’m currently learning Python.
 
